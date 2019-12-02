@@ -1,0 +1,16 @@
+{
+  "name": "rps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rps.js",
+  "scripts": {
+    "deploy": "gh-pages -d  dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://sandy1594.github.io/mywebsite",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
